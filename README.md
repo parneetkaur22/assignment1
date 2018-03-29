@@ -6,3 +6,7 @@ I have used Html and Css coding, i use background color for my website and Fonts
 
 
 Further, i do four commits step by step.
+
+https://github.com/parneetkaur22/assignment1/blob/master/README.md    Git hub
+
+http://assignment120180226101004.azurewebsites.net/     Azure link
