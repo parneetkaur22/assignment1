@@ -10,11 +10,14 @@ using Assignment1.Models;
 
 namespace Assignment1.Controllers
 {
+
+    [Authorize]
     public class Table2Controller : Controller
     {
         private Model1 db = new Model1();
 
         // GET: Table2
+        [OverrideAuthorization]
         public ActionResult Index()
         {
             return View(db.Table2.ToList());
